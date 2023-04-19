@@ -1,0 +1,8 @@
+C:\Users\ispan\source\repos\C#\course\0419LAB\LabPacrice_0419\P02_Exec0060\bin\Debug\P02_Exec0060.exe.config
+C:\Users\ispan\source\repos\C#\course\0419LAB\LabPacrice_0419\P02_Exec0060\bin\Debug\P02_Exec0060.exe
+C:\Users\ispan\source\repos\C#\course\0419LAB\LabPacrice_0419\P02_Exec0060\bin\Debug\P02_Exec0060.pdb
+C:\Users\ispan\source\repos\C#\course\0419LAB\LabPacrice_0419\P02_Exec0060\obj\Debug\P02_Exec0060.csproj.AssemblyReference.cache
+C:\Users\ispan\source\repos\C#\course\0419LAB\LabPacrice_0419\P02_Exec0060\obj\Debug\P02_Exec0060.csproj.SuggestedBindingRedirects.cache
+C:\Users\ispan\source\repos\C#\course\0419LAB\LabPacrice_0419\P02_Exec0060\obj\Debug\P02_Exec0060.csproj.CoreCompileInputs.cache
+C:\Users\ispan\source\repos\C#\course\0419LAB\LabPacrice_0419\P02_Exec0060\obj\Debug\P02_Exec0060.exe
+C:\Users\ispan\source\repos\C#\course\0419LAB\LabPacrice_0419\P02_Exec0060\obj\Debug\P02_Exec0060.pdb

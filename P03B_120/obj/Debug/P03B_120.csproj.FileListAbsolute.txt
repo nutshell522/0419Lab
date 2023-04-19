@@ -1,0 +1,8 @@
+C:\Users\jjboy\Desktop\repos\C#\course\0419LAB\LabPacrice_0419\P03B_120\bin\Debug\P03B_120.exe.config
+C:\Users\jjboy\Desktop\repos\C#\course\0419LAB\LabPacrice_0419\P03B_120\bin\Debug\P03B_120.exe
+C:\Users\jjboy\Desktop\repos\C#\course\0419LAB\LabPacrice_0419\P03B_120\bin\Debug\P03B_120.pdb
+C:\Users\jjboy\Desktop\repos\C#\course\0419LAB\LabPacrice_0419\P03B_120\obj\Debug\P03B_120.csproj.AssemblyReference.cache
+C:\Users\jjboy\Desktop\repos\C#\course\0419LAB\LabPacrice_0419\P03B_120\obj\Debug\P03B_120.csproj.SuggestedBindingRedirects.cache
+C:\Users\jjboy\Desktop\repos\C#\course\0419LAB\LabPacrice_0419\P03B_120\obj\Debug\P03B_120.csproj.CoreCompileInputs.cache
+C:\Users\jjboy\Desktop\repos\C#\course\0419LAB\LabPacrice_0419\P03B_120\obj\Debug\P03B_120.exe
+C:\Users\jjboy\Desktop\repos\C#\course\0419LAB\LabPacrice_0419\P03B_120\obj\Debug\P03B_120.pdb

@@ -1,0 +1,16 @@
+C:\Users\ispan\source\repos\C#\course\0419LAB\LabPacrice_0419\P03_Exec0002C\bin\Debug\P03_Exec0002C.exe.config
+C:\Users\ispan\source\repos\C#\course\0419LAB\LabPacrice_0419\P03_Exec0002C\bin\Debug\P03_Exec0002C.exe
+C:\Users\ispan\source\repos\C#\course\0419LAB\LabPacrice_0419\P03_Exec0002C\bin\Debug\P03_Exec0002C.pdb
+C:\Users\ispan\source\repos\C#\course\0419LAB\LabPacrice_0419\P03_Exec0002C\obj\Debug\P03_Exec0002C.csproj.AssemblyReference.cache
+C:\Users\ispan\source\repos\C#\course\0419LAB\LabPacrice_0419\P03_Exec0002C\obj\Debug\P03_Exec0002C.csproj.SuggestedBindingRedirects.cache
+C:\Users\ispan\source\repos\C#\course\0419LAB\LabPacrice_0419\P03_Exec0002C\obj\Debug\P03_Exec0002C.csproj.CoreCompileInputs.cache
+C:\Users\ispan\source\repos\C#\course\0419LAB\LabPacrice_0419\P03_Exec0002C\obj\Debug\P03_Exec0002C.exe
+C:\Users\ispan\source\repos\C#\course\0419LAB\LabPacrice_0419\P03_Exec0002C\obj\Debug\P03_Exec0002C.pdb
+C:\Users\jjboy\Desktop\repos\C#\course\0419LAB\LabPacrice_0419\P03_Exec0002C\bin\Debug\P03_Exec0002C.exe.config
+C:\Users\jjboy\Desktop\repos\C#\course\0419LAB\LabPacrice_0419\P03_Exec0002C\bin\Debug\P03_Exec0002C.exe
+C:\Users\jjboy\Desktop\repos\C#\course\0419LAB\LabPacrice_0419\P03_Exec0002C\bin\Debug\P03_Exec0002C.pdb
+C:\Users\jjboy\Desktop\repos\C#\course\0419LAB\LabPacrice_0419\P03_Exec0002C\obj\Debug\P03_Exec0002C.csproj.AssemblyReference.cache
+C:\Users\jjboy\Desktop\repos\C#\course\0419LAB\LabPacrice_0419\P03_Exec0002C\obj\Debug\P03_Exec0002C.csproj.SuggestedBindingRedirects.cache
+C:\Users\jjboy\Desktop\repos\C#\course\0419LAB\LabPacrice_0419\P03_Exec0002C\obj\Debug\P03_Exec0002C.csproj.CoreCompileInputs.cache
+C:\Users\jjboy\Desktop\repos\C#\course\0419LAB\LabPacrice_0419\P03_Exec0002C\obj\Debug\P03_Exec0002C.exe
+C:\Users\jjboy\Desktop\repos\C#\course\0419LAB\LabPacrice_0419\P03_Exec0002C\obj\Debug\P03_Exec0002C.pdb
